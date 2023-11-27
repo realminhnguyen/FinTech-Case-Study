@@ -29,8 +29,11 @@
     * The market size for this demographic is large, especially in the United States. According to Apptopia, there was approximately 13.8 million app downloads in 2022.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+    * For starters, since Chime is a FinTech company and not a traditional bank, they are cost efficeint. They save on expenses related to rent, utilities, and staffing for traditional branch locations. This allows them to allocate more resources toward innovative serices and/or reduced fees for customers.
+    * Additionally, being that Chime is digital-focused, they can scale rapidly without the constraints of physical locations. People in remote or underserved areas can easily access Chime with a phone and internet access.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+    * They use a plethora of technologies. 
 
 
 ## Landscape:
