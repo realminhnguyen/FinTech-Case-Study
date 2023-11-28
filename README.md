@@ -33,7 +33,11 @@
     * Additionally, being that Chime is digital-focused, they can scale rapidly without the constraints of physical locations. People in remote or underserved areas can easily access Chime with a phone and internet access.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-    * They use a plethora of technologies. 
+    * They use a plethora of technologies according to Stackshare.
+        * For their Frontend, they use React, TypeScript, ES6, and React Native. React is used for web development and React Native is for it's mobile app.
+        * For their Backend, Chime uses Ruby, Golang, Rails, Elixir, and AWS Services. The AWS is used for cloud infrastructure, data storage, and processing. Ruby, Golang, Rails, and Elixir are popular languages and frameworks used for building high performance backend services.
+        * To visualize data, graphic.js is used for creating dynamic and visually appealing charts and visualizations. This is key for Chime's mobile-centric experience.
+        * To connect with financial institutions securely, they use a popular financial service called Plaid. Various financial institutions use it for access to financial data. Chime members can link other banks to Chime using Plaid.
 
 
 ## Landscape:
