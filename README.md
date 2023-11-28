@@ -31,7 +31,7 @@
     * Traditional banks often carry numerous fees with them, such as maintenance fees, overdraft fees, out-of-network ATM fees, etc. This can often be hidden and unclear for customers. Chime instead opts for transparency and even elimination of some of the fees, such as no monthly fees and no minimum balance fees.
     * Chime allows those with lower incomes to cross the banking service barrier with no minimum balance fees and low fees. This is great for the younger demographic.
     * Chime approaches banking with a digital-first approach. As a financial techonology company, they aim to leverage modern technology to offer a more efficient and seamless banking experience through its mobile app.
-     * Healthier financial habits are encouraged among their users. Not only does Chime and modern tools and resources, but they also emphasize financial literacy. Chime offers early direct deposit, automated savings, and alerts for low balances.
+    * Healthier financial habits are encouraged among their users. Not only does Chime and modern tools and resources, but they also emphasize financial literacy. Chime offers early direct deposit, automated savings, and alerts for low balances.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
     
