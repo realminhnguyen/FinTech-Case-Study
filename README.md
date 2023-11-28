@@ -60,7 +60,7 @@
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
     
-    The major trends and innovations in the Personal Finance/Online Banking domain include the growth of digital-only banks without traditional physical branches, Financial Literacy and education, and AI-Powered Financial Management. 
+    The major trends and innovations in the Personal Finance/Online Banking domain include the growth of "digital-only banks without traditional physical branches" *according to Glimpse*, Financial Literacy and education, and AI-Powered Financial Management. 
     
     Notable trends include retail investing, robo-advisors, pay-over-time services, and security measures. 
 * What are the other major companies in this domain?
@@ -79,9 +79,9 @@
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
     Core metrics in the Online Banking and Personal Finance domain include user growth and acquisition, revenue, and market valuation and funding.
-    * User Growth & Acquisition: Over 14.5 million customers use Chime. 9 Million use Chime as their primary bank. 
-    * Revenue: $1.8 billion in 2022.
-    * Market Valuation & Funding: Valued at $25 billion with $2.3 billion in funding.
+    * User Growth & Acquisition: Approximately "14.5 million users in 2022, with approximately nine million using it as their primary bank" *according to Business of Apps*.
+    * Revenue: "$1.8 billion in 2022" *according to Business of Apps*.
+    * Market Valuation & Funding: Valued at $25 billion with "$2.3 billion from Sequoia Capital, DST Global, Menlo Ventures and others" *according to Forbes*.
 
 
 * How is your company performing relative to competitors in the same domain?
