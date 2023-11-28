@@ -11,7 +11,8 @@
 * Who are the founders of the company?
     
     Chris Britt (CEO) and Ryan King (CTO)
-![](https://ussnsimg.moomoo.com/997530276021938015.png/bigmoo)
+
+    ![](https://ussnsimg.moomoo.com/997530276021938015.png/bigmoo)
 * How did the idea for the company (or project) come about?
     
     The goal of Chime was founded on the idea that  everyday banking and payment services should be helpful, easy, and free. The duo aimed to cater more towards customers, unlike traditional banks. They currently strive for transparency, simplicity, and accessibility for customers with their digital services.
