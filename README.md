@@ -16,6 +16,7 @@
     
     The goal of Chime was founded on the idea that  everyday banking and payment services should be helpful, easy, and free. The duo aimed to cater more towards customers, unlike traditional banks. They currently strive for transparency, simplicity, and accessibility for customers with their digital services.
 * How is the company funded? How much funding have they received?
+
     Chime is funded primarily through Sequoia Capital, DST Global, Menlo Ventures, and other sources. They secured funding through venture capital firms, private investors, and funding rounds. 
     
     They have received approximately $2.3 billion in funding.
